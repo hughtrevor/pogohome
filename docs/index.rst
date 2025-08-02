@@ -3,6 +3,12 @@ Club Pogo Members Home Page Sign In Instructions
 
 If you’re an avid online gamer and a part of the Pogo gaming community, you’ll likely need to visit the Club Pogo members home page regularly. This page is your one-stop destination to access your favorite games, account settings, badges, and exclusive members-only content. In this guide, we provide step-by-step instructions on how to sign in to the Club Pogo members home page, what to do if you forget your credentials, and how to manage your account efficiently. Whether you're a seasoned Club Pogo member or just subscribed, mastering the sign-in process is essential.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://pogo-desk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Pogo</a>
+   </div>
+
 Accessing the club pogo members home page correctly ensures a smooth gaming experience and unlocks all the features your subscription offers. We'll also explain how to handle common sign-in issues, update your profile, and make the most of your membership. Throughout this guide, we’ll reference the club pogo members home page multiple times to reinforce the navigation process and what to expect after logging in.
 
 What is Club Pogo?
@@ -165,5 +171,6 @@ Don’t forget to bookmark the page and keep your login credentials safe. Whethe
 
 Still need help? Visit:  
 `https://help.ea.com/en/pogo/pogo/ <https://help.ea.com/en/pogo/pogo/>`_
+
 
 Enjoy your Club Pogo experience!
